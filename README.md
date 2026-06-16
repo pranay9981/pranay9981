@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00D1FF&height=180&section=header" width="100%"/>
-
-<h2>Pranay Bagaria</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00D1FF&height=230&section=header&text=Pranay+Bagaria&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <p><strong>AI &amp; ML Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Healthcare AI</strong></p>
 
@@ -56,19 +54,11 @@ passion: "Building AI that serves people — not the other way around."
 
 <div align="center">
 
-<br/>
-
-🧑‍💻 &nbsp;<b>Languages</b>
-
-<br/><br/>
+<h4>🧑‍💻 Languages</h4>
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,java,kotlin,cpp,html,css&theme=dark" />
 
-<br/><br/>
-
-🤖 &nbsp;<b>AI / ML & Data Science</b>
-
-<br/><br/>
+<h4>🤖 AI / ML & Data Science</h4>
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
@@ -81,31 +71,17 @@ passion: "Building AI that serves people — not the other way around."
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
-<br/><br/>
-
-🌐 &nbsp;<b>Frontend & Backend</b>
-
-<br/><br/>
+<h4>🌐 Frontend & Backend</h4>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,express,tailwind&theme=dark" />
 
-<br/><br/>
-
-🗄️ &nbsp;<b>Databases & Cloud</b>
-
-<br/><br/>
+<h4>🗄️ Databases & Cloud</h4>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,redis&theme=dark" />
 
-<br/><br/>
-
-🛠️ &nbsp;<b>DevOps & Tools</b>
-
-<br/><br/>
+<h4>🛠️ DevOps & Tools</h4>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&theme=dark" />
-
-<br/>
 
 </div>
 
