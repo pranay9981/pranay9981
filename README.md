@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D1FF&height=180&section=header" width="100%"/>
 
-<h1>Pranay Bagaria</h1>
+<h2>Pranay Bagaria</h2>
 
 <p><strong>AI &amp; ML Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Healthcare AI</strong></p>
 
@@ -56,41 +56,56 @@ passion: "Building AI that serves people — not the other way around."
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>🧑‍💻 Languages</h4>
-      <img src="https://skillicons.dev/icons?i=py,ts,js,java,kotlin,cpp,html,css&theme=dark" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>🤖 AI / ML & Data Science</h4>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <h4>🌐 Web & Backend</h4>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,express,tailwind&theme=dark" />
-    </td>
-    <td align="center" valign="top">
-      <h4>🗄️ Databases & Cloud</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,redis&theme=dark" />
-    </td>
-  </tr>
-</table>
-
 <br/>
 
-<h4>🛠️ DevOps & Tools</h4>
+🧑‍💻 &nbsp;<b>Languages</b>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,kotlin,cpp,html,css&theme=dark" />
+
+<br/><br/>
+
+🤖 &nbsp;<b>AI / ML & Data Science</b>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+<br/><br/>
+
+🌐 &nbsp;<b>Frontend & Backend</b>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,express,tailwind&theme=dark" />
+
+<br/><br/>
+
+🗄️ &nbsp;<b>Databases & Cloud</b>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,redis&theme=dark" />
+
+<br/><br/>
+
+🛠️ &nbsp;<b>DevOps & Tools</b>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&theme=dark" />
+
+<br/>
 
 </div>
 
@@ -152,9 +167,9 @@ passion: "Building AI that serves people — not the other way around."
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranay9981/pranay9981/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranay9981/pranay9981/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/pranay9981/pranay9981/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranay9981/sample/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranay9981/sample/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/pranay9981/sample/output/github-contribution-grid-snake.svg?v=1" />
 </picture>
 </div>
 
