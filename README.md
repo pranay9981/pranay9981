@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00D1FF&height=230&section=header&text=Pranay+Bagaria&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<p><strong>AI &amp; ML Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Healthcare AI</strong></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D1FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Developer;Federated+Learning+for+Healthcare+AI;Building+RAG+Systems+%26+LLM+Applications;Generative+AI+%7C+FinTech+%7C+Travel+Tech" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D1FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Federated+Learning+for+Healthcare+AI;Building+RAG+Systems+%26+LLM+Applications;Neonatal+Sepsis+Detection+%7C+GRU-D+%26+Transformers;Generative+AI+%7C+FinTech+%7C+Travel+Tech" alt="Typing SVG" />
-
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D1FF)](https://pranaybagaria.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-bagaria-a64014293/)
@@ -54,42 +52,16 @@ passion: "Building AI that serves people — not the other way around."
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>🧑‍💻 Languages</h4>
-      <img src="https://skillicons.dev/icons?i=py,ts,js,java,kotlin,cpp,html,css&theme=dark&perline=4" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>🤖 AI / ML & Data Science</h4>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <h4>🌐 Frontend & Backend</h4>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,express,tailwind&theme=dark&perline=3" />
-    </td>
-    <td align="center" valign="top">
-      <h4>🗄️ Databases & Cloud</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,redis&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h4>🛠️ DevOps & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&theme=dark" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,kotlin,cpp,html,css,pytorch,tensorflow,sklearn,react,nextjs,nodejs,fastapi,express,tailwind,mongodb,mysql,firebase,postgres,redis,git,github,docker,vscode,linux,postman&theme=dark&perline=7" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
 </div>
 
