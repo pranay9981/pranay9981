@@ -56,36 +56,41 @@ passion: "Building AI that serves people — not the other way around."
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,cpp,java,kotlin,ts,js,html,css&theme=dark" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,express&theme=dark" />
-
-**Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres&theme=dark" />
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>🧑‍💻 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=py,ts,js,java,kotlin,cpp,html,css&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>🤖 AI / ML & Data Science</h4>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+      <br/><br/>
+      ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+      ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+      ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+      ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+      ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+      ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h4>🌐 Web & Backend</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,express,tailwind&theme=dark" />
+    </td>
+    <td align="center" valign="top">
+      <h4>🗄️ Databases & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,redis&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<h4>🛠️ DevOps & Tools</h4>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman&theme=dark" />
 
 </div>
 
