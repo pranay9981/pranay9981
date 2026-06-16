@@ -11,6 +11,10 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaybagaria01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranay9981)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pranay9981&color=00D1FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -45,7 +49,7 @@ fun_fact: "Built a music AI before ever learning what a chord progression was."
 <div align="center">
 
 | 🧬 Healthcare AI | 🤖 LLM & RAG Systems | 📊 Business Intelligence |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | **Federated Learning** for Neonatal Sepsis Detection across hospital networks using GRU-D & Transformers with differential privacy | **RAG-Studio** — Multi-source document intelligence with retrieval-augmented generation pipelines | **DemandOps** — AI-powered sales forecasting & demand intelligence with real-time analytics |
 
 </div>
@@ -92,7 +96,7 @@ learning:
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranay9981&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D1FF&fire=7928CA&currStreakLabel=00D1FF&sideLabels=00D1FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888&stroke=0D1117&border=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pranay9981&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D1FF&fire=7928CA&currStreakLabel=00D1FF&sideLabels=00D1FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888&stroke=0D1117&border=0D1117)
 
 </div>
 
@@ -109,15 +113,15 @@ learning:
 | 🎵 **[Cyber Wave Music Gen](https://github.com/pranay9981/cyber-wave-music-gen)** | 📊 **[DemandOps](https://github.com/pranay9981/DemandOps-Intelligent-Sales-And-Demand-Forecasting)** |
 | AI-powered music generation exploring the intersection of neural networks and audio synthesis. | Intelligent sales & demand forecasting platform with AI-driven analytics and business intelligence dashboards. |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GenAI](https://img.shields.io/badge/Generative_AI-00D1FF?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Forecasting-EE4C2C?style=flat-square) |
-| 🌍 **[Travel Companion](https://github.com/pranay9981/Travel-Comapanion)** | 💰 **[MoneyMate](https://github.com/pranay9981/MoneyMate)** |
-| Full-stack AI-powered travel planning app for discovering, organizing and booking trips with smart recommendations. | Personal finance & expense tracking app with smart categorization and spending insights. |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 🌍 **[Travel Companion](https://github.com/pranay9981/Travel-Comapanion)** | 📄 **[Resume Intelligence System](https://github.com/pranay9981/Resume-Intelligence-System)** |
+| Full-stack AI-powered travel planning app for discovering, organizing and booking trips with smart recommendations. | AI-powered resume analysis system with intelligent parsing, skill extraction, and job-to-candidate match scoring. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI_Powered-7928CA?style=flat-square) |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> contribution_graph`
+## `> contributions`
 
 <div align="center">
 
@@ -125,7 +129,7 @@ learning:
 
 </div>
 
-## `> contribution_snake`
+<br/>
 
 <div align="center">
 <picture>
@@ -139,21 +143,11 @@ learning:
 
 <div align="center">
 
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
 ### Let's build something amazing together 🚀
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-bagaria-a64014293/)
 [![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D1FF)](https://pranaybagaria.vercel.app)
-[![Send_Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaybagaria01@gmail.com)
+[![Send Email](https://img.shields.io/badge/Send+an+Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaybagaria01@gmail.com)
 
 <br/>
 
