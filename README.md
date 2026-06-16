@@ -18,20 +18,24 @@
 ## `> whoami`
 
 ```yaml
-name: Pranay Bagaria
-role: AI & ML Engineer | Full-Stack Developer | App Developer
-location: India
-focus:
-  - Privacy-Preserving Federated Learning for Healthcare
-  - Full-Stack Web & Mobile Applications (React, TypeScript, FastAPI)
-  - RAG Systems & Intelligent Automation
+name: "Pranay Bagaria"
+role: "AI & ML Engineer | Full-Stack Developer | App Developer"
+location: "India"
+mission: "Building AI that genuinely serves people — not just impresses them."
+
+expertise:
+  - Federated Learning & Differential Privacy for Healthcare AI
+  - LLM Applications, RAG Systems & Intelligent Automation
+  - Full-Stack Web & Mobile (React, TypeScript, FastAPI)
   - Generative AI — Music, NLP, Vision
-current_work:
-  - Neonatal Sepsis Detection using GRU-D & Transformers
-  - RAG-Studio: Multi-source document intelligence platform
-  - DemandOps: AI-driven sales & demand forecasting
-open_to: Research collaborations, Open Source, Freelance AI projects
-passion: "Building AI that serves people — not the other way around."
+
+currently_building:
+  - "Neonatal Sepsis Detection (GRU-D + Transformers + Federated Learning)"
+  - "RAG-Studio — Multi-source document intelligence platform"
+  - "DemandOps — AI-driven sales & demand forecasting"
+
+open_to: "Research collaborations | Open Source | Freelance AI projects"
+fun_fact: "Built a music AI before ever learning what a chord progression was."
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -67,6 +71,18 @@ passion: "Building AI that serves people — not the other way around."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## `> currently_learning`
+
+```yaml
+learning:
+  - "LLM Fine-tuning — LoRA, QLoRA & PEFT for domain-specific model adaptation"
+  - "Agentic AI — multi-agent orchestration with LangGraph & AutoGen"
+  - "MLOps at Scale — production ML pipelines with Kubernetes & MLflow"
+  - "Rust — high-performance systems programming for ML inference"
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## `> github_stats`
 
 <div align="center">
@@ -77,16 +93,6 @@ passion: "Building AI that serves people — not the other way around."
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranay9981&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D1FF&fire=7928CA&currStreakLabel=00D1FF&sideLabels=00D1FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888&stroke=0D1117&border=0D1117)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> trophies`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=pranay9981&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
