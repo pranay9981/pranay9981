@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D1FF&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00D1FF&height=180&section=header" width="100%"/>
 
 <h2>Pranay Bagaria</h2>
 
