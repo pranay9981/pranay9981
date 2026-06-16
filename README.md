@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00D1FF,100:7928CA&height=220&section=header&text=Pranay%20Bagaria&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Healthcare%20AI&descAlignY=65&descSize=18&descColor=CCCCCC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D1FF&height=220&section=header&text=Pranay+Bagaria&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI+%26+ML+Engineer+%7C+Full-Stack+Developer+%7C+Healthcare+AI&descSize=16&descAlignY=58&descColor=99DDFF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=00D1FF&center=true&vCenter=true&repeat=true&width=860&height=35&lines=Federated+Learning+for+Privacy-Preserving+Healthcare+AI;Building+RAG+Systems+%26+Intelligent+Full-Stack+Apps;Neonatal+Sepsis+Detection+%7C+GRU-D+%26+Transformers;Generative+AI+%7C+FinTech+%7C+Travel+Tech;Building+AI+that+serves+people+not+the+other+way+around" alt="Typing SVG" />
+<br/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D1FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Developer;Federated+Learning+for+Healthcare+AI;Building+RAG+Systems+%26+LLM+Applications;Neonatal+Sepsis+Detection+%7C+GRU-D+%26+Transformers;Generative+AI+%7C+FinTech+%7C+Travel+Tech" alt="Typing SVG" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D1FF)](https://pranaybagaria.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-bagaria-a64014293/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaybagaria01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranay9981)
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranay9981&label=Profile+Views&color=00D1FF&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/pranay9981?label=Followers&style=for-the-badge&color=7928CA&labelColor=0D1117)
@@ -172,7 +174,7 @@ passion: "Building AI that serves people — not the other way around."
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-bagaria-a64014293/)
 [![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D1FF)](https://pranaybagaria.vercel.app)
-[![Send an Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaybagaria01@gmail.com)
+[![Send_Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaybagaria01@gmail.com)
 
 <br/>
 
