@@ -1,156 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00D1FF&height=230&section=header&text=Pranay+Bagaria&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D1FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Developer;Federated+Learning+for+Healthcare+AI;Building+RAG+Systems+%26+LLM+Applications;Generative+AI+%7C+FinTech+%7C+Travel+Tech" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D1FF)](https://pranaybagaria.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-bagaria-a64014293/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaybagaria01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranay9981)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=pranay9981&color=00D1FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> whoami`
-
-```yaml
-name: "Pranay Bagaria"
-role: "AI & ML Engineer | Full-Stack Developer | App Developer"
-location: "India"
-mission: "Building AI that genuinely serves people — not just impresses them."
-
-expertise:
-  - Federated Learning & Differential Privacy for Healthcare AI
-  - LLM Applications, RAG Systems & Intelligent Automation
-  - Full-Stack Web & Mobile (React, TypeScript, FastAPI)
-  - Generative AI — Music, NLP, Vision
-
-currently_building:
-  - "Neonatal Sepsis Detection (GRU-D + Transformers + Federated Learning)"
-  - "RAG-Studio — Multi-source document intelligence platform"
-  - "DemandOps — AI-driven sales & demand forecasting"
-
-open_to: "Research collaborations | Open Source | Freelance AI projects"
-fun_fact: "Built a music AI before ever learning what a chord progression was."
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> what_i_build`
-
-<div align="center">
-
-| 🧬 Healthcare AI | 🤖 LLM & RAG Systems | 📊 Business Intelligence |
-|:---|:---|:---|
-| **Federated Learning** for Neonatal Sepsis Detection across hospital networks using GRU-D & Transformers with differential privacy | **RAG-Studio** — Multi-source document intelligence with retrieval-augmented generation pipelines | **DemandOps** — AI-powered sales forecasting & demand intelligence with real-time analytics |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> tech_stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,kotlin,cpp,html,css,pytorch,tensorflow,sklearn,react,nextjs,nodejs,fastapi,express,tailwind,mongodb,mysql,firebase,postgres,redis,git,github,docker,vscode,linux,postman&theme=dark&perline=7" />
+<img src="https://raw.githubusercontent.com/pranay9981/pranay9981/main/assets/terminal-boot.svg" width="100%" alt="terminal boot sequence"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e14?style=for-the-badge&logo=googlechrome&logoColor=39d0ff)](https://pranaybagaria.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e14?style=for-the-badge&logo=linkedin&logoColor=39d0ff)](https://www.linkedin.com/in/pranay-bagaria-a64014293/)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0e14?style=for-the-badge&logo=gmail&logoColor=39d0ff)](mailto:pranaybagaria01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0e14?style=for-the-badge&logo=github&logoColor=39d0ff)](https://github.com/pranay9981)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## `> currently_learning`
+## `$ whoami`
 
-```yaml
-learning:
-  - "LLM Fine-tuning — LoRA, QLoRA & PEFT for domain-specific model adaptation"
-  - "Agentic AI — multi-agent orchestration with LangGraph & AutoGen"
-  - "MLOps at Scale — production ML pipelines with Kubernetes & MLflow"
-  - "Rust — high-performance systems programming for ML inference"
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pranay9981/pranay9981/main/assets/neofetch.svg" width="100%" alt="neofetch style system info"/>
+
+</div>
+
+<br/>
+
+## `$ cat requirements.txt`
+
+```py
+# requirements.txt — pranay9981's runtime dependencies
+
+torch>=2.1                # deep learning core
+transformers               # LLMs & NLP
+langchain                  # RAG & agentic orchestration
+scikit-learn                # classical ML
+opencv-python                # computer vision
+
+fastapi                   # backend APIs
+react                      # frontend framework
+next.js                     # SSR / full-stack react
+postgresql                    # primary datastore
+docker                          # containerized everything
+
+# pip install curiosity --upgrade
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> github_stats`
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranay9981&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay9981&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF&langs_count=8" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=pranay9981&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D1FF&fire=7928CA&currStreakLabel=00D1FF&sideLabels=00D1FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888&stroke=0D1117&border=0D1117)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> featured_projects`
-
-<div align="center">
-
-| 🧬 **[Neonatal Sepsis Detection](https://github.com/pranay9981/Neonatal-Sepsis)** | 🤖 **[RAG-Studio](https://github.com/pranay9981/RAG-Studio)** |
-|---|---|
-| Federated learning with GRU-D & Transformers for privacy-preserving sepsis prediction across distributed hospital networks. ⭐ 3 &nbsp; 🍴 3 | Multi-source document intelligence platform powered by retrieval-augmented generation for smarter information access. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FL](https://img.shields.io/badge/Federated_Learning-00D1FF?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-7928CA?style=flat-square) |
-| 🎵 **[Cyber Wave Music Gen](https://github.com/pranay9981/cyber-wave-music-gen)** | 📊 **[DemandOps](https://github.com/pranay9981/DemandOps-Intelligent-Sales-And-Demand-Forecasting)** |
-| AI-powered music generation exploring the intersection of neural networks and audio synthesis. | Intelligent sales & demand forecasting platform with AI-driven analytics and business intelligence dashboards. |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GenAI](https://img.shields.io/badge/Generative_AI-00D1FF?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Forecasting-EE4C2C?style=flat-square) |
-| 🌍 **[Travel Companion](https://github.com/pranay9981/Travel-Comapanion)** | 📄 **[Resume Intelligence System](https://github.com/pranay9981/Resume-Intelligence-System)** |
-| Full-stack AI-powered travel planning app for discovering, organizing and booking trips with smart recommendations. | AI-powered resume analysis system with intelligent parsing, skill extraction, and job-to-candidate match scoring. |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI_Powered-7928CA?style=flat-square) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> contributions`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranay9981&custom_title=Pranay%27s%20Contribution%20Graph&bg_color=0D1117&color=00D1FF&line=00D1FF&point=7928CA&area_color=00D1FF&area=true&hide_border=true)](https://github.com/pranay9981)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay9981&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0E14&title_color=39D0FF&text_color=C9D1D9&langs_count=8" alt="top languages"/>
 
 </div>
 
 <br/>
 
+## `$ git log --stat --all`
+
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranay9981&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0E14&title_color=39D0FF&icon_color=3EF07C&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="github stats"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pranay9981&theme=github-dark-blue&hide_border=true&background=0A0E14&ring=39D0FF&fire=3EF07C&currStreakLabel=39D0FF&sideLabels=39D0FF&sideNums=C9D1D9&dates=6b7280&stroke=0A0E14&border=0A0E14)
+
+</div>
+
+<br/>
+
+## `$ ./contrib.sh --render=3d`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pranay9981/pranay9981/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution calendar"/>
+
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranay9981/sample/output/github-contribution-grid-snake-dark.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranay9981/sample/output/github-contribution-grid-snake.svg?v=1" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/pranay9981/sample/output/github-contribution-grid-snake.svg?v=1" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranay9981/pranay9981/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranay9981/pranay9981/output/github-contribution-grid-snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/pranay9981/pranay9981/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-### Let's build something amazing together 🚀
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-bagaria-a64014293/)
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D1FF)](https://pranaybagaria.vercel.app)
-[![Send Email](https://img.shields.io/badge/Send+an+Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaybagaria01@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00D1FF&height=100&section=footer" width="100%"/>
+## `$ ./scan.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pranay9981/pranay9981/main/assets/system-scan.svg" width="100%" alt="fake system diagnostic scan"/>
+
+</div>
+
+<br/>
+
+## `$ ls -la ~/projects --sort=impact`
+
+<table>
+<tr>
+<td><code>drwxr-xr-x</code></td>
+<td><code><a href="https://github.com/pranay9981/Neonatal-Sepsis">neonatal-sepsis-detection/</a></code></td>
+<td>Federated learning (GRU-D + Transformers) for early sepsis detection across hospital networks — trained without patient data ever leaving a hospital.</td>
+<td><img src="https://img.shields.io/badge/-Python-0a0e14?style=flat-square&logo=python&logoColor=39d0ff"/> <img src="https://img.shields.io/badge/-PyTorch-0a0e14?style=flat-square&logo=pytorch&logoColor=39d0ff"/></td>
+</tr>
+<tr>
+<td><code>drwxr-xr-x</code></td>
+<td><code><a href="https://github.com/pranay9981/RAG-Studio">rag-studio/</a></code></td>
+<td>Multi-source document intelligence platform built on retrieval-augmented generation pipelines.</td>
+<td><img src="https://img.shields.io/badge/-Python-0a0e14?style=flat-square&logo=python&logoColor=39d0ff"/> <img src="https://img.shields.io/badge/-LangChain-0a0e14?style=flat-square&logoColor=39d0ff"/></td>
+</tr>
+<tr>
+<td><code>drwxr-xr-x</code></td>
+<td><code><a href="https://github.com/pranay9981/Sensitive-Data-Detection-Compliance-Assistant">sensitive-data-compliance-assistant/</a></code></td>
+<td>AI assistant that scans data sources for sensitive/PII content and flags compliance risk.</td>
+<td><img src="https://img.shields.io/badge/-Python-0a0e14?style=flat-square&logo=python&logoColor=39d0ff"/> <img src="https://img.shields.io/badge/-NLP-0a0e14?style=flat-square&logoColor=3ef07c"/></td>
+</tr>
+<tr>
+<td><code>drwxr-xr-x</code></td>
+<td><code><a href="https://github.com/pranay9981/DemandOps-Intelligent-Sales-And-Demand-Forecasting">demandops/</a></code></td>
+<td>AI-driven sales and demand forecasting engine with real-time analytics.</td>
+<td><img src="https://img.shields.io/badge/-Python-0a0e14?style=flat-square&logo=python&logoColor=39d0ff"/> <img src="https://img.shields.io/badge/-Forecasting-0a0e14?style=flat-square&logoColor=ff5fb0"/></td>
+</tr>
+<tr>
+<td><code>drwxr-xr-x</code></td>
+<td><code><a href="https://github.com/pranay9981/cyber-wave-music-gen">cyber-wave-music-gen/</a></code></td>
+<td>Generative AI system composing original music through neural audio synthesis.</td>
+<td><img src="https://img.shields.io/badge/-TypeScript-0a0e14?style=flat-square&logo=typescript&logoColor=39d0ff"/> <img src="https://img.shields.io/badge/-GenAI-0a0e14?style=flat-square&logoColor=3ef07c"/></td>
+</tr>
+<tr>
+<td><code>drwxr-xr-x</code></td>
+<td><code><a href="https://github.com/pranay9981/Resume-Intelligence-System">resume-intelligence-system/</a></code></td>
+<td>AI parser that extracts skills and scores resume-to-job fit automatically.</td>
+<td><img src="https://img.shields.io/badge/-JavaScript-0a0e14?style=flat-square&logo=javascript&logoColor=39d0ff"/> <img src="https://img.shields.io/badge/-AI-0a0e14?style=flat-square&logoColor=3ef07c"/></td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+`$ curl -X CONNECT pranay --linkedin --portfolio --email`
+
+[![Connect](https://img.shields.io/badge/Connect-0a0e14?style=for-the-badge&logo=linkedin&logoColor=39d0ff)](https://www.linkedin.com/in/pranay-bagaria-a64014293/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e14?style=for-the-badge&logo=googlechrome&logoColor=39d0ff)](https://pranaybagaria.vercel.app)
+[![Email](https://img.shields.io/badge/Email-0a0e14?style=for-the-badge&logo=gmail&logoColor=39d0ff)](mailto:pranaybagaria01@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pranay9981&color=39D0FF&style=flat-square&label=profile_views"/>
+
+`$ logout`
 
 </div>

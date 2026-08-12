@@ -1,0 +1,61 @@
+<svg width="1000" height="340" viewBox="0 0 1000 340" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace">
+  <defs>
+    <filter id="glow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="panelEdge3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a3342"/>
+      <stop offset="1" stop-color="#151a22"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="338" rx="14" fill="#0a0e14" stroke="url(#panelEdge3)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="998" height="40" rx="14" fill="#12161d"/>
+  <rect x="1" y="30" width="998" height="11" fill="#12161d"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="21" r="6" fill="#27c93f"/>
+  <text x="500" y="26" text-anchor="middle" font-size="13" fill="#6b7280">root@pranay&#8202;:&#8202;~#&#8202;./scan.sh</text>
+
+  <g font-size="15.5">
+    <text opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.2s" fill="freeze"/>
+      <tspan x="34" y="82" fill="#c9d1d9">&gt; Indexing repositories</tspan>
+      <tspan x="760" y="82" fill="#3ef07c">[OK]</tspan>
+    </text>
+    <text opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.2s" fill="freeze"/>
+      <tspan x="34" y="114" fill="#c9d1d9">&gt; Parsing commit history</tspan>
+      <tspan x="760" y="114" fill="#3ef07c">[OK]</tspan>
+    </text>
+    <text opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.2s" fill="freeze"/>
+      <tspan x="34" y="146" fill="#c9d1d9">&gt; Measuring caffeine reserves</tspan>
+      <tspan x="760" y="146" fill="#ffbd2e">[CRITICAL]</tspan>
+    </text>
+    <text opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.2s" fill="freeze"/>
+      <tspan x="34" y="178" fill="#c9d1d9">&gt; Cross-referencing curiosity</tspan>
+      <tspan x="760" y="178" fill="#ff5fb0">[OVERFLOW]</tspan>
+    </text>
+    <text opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.2s" fill="freeze"/>
+      <tspan x="34" y="210" fill="#c9d1d9">&gt; Compiling excuses for sleep</tspan>
+      <tspan x="760" y="210" fill="#ff5f56">[FAILED]</tspan>
+    </text>
+    <text opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.2s" fill="freeze"/>
+      <tspan x="34" y="242" fill="#c9d1d9">&gt; Rebooting motivation.sys</tspan>
+      <tspan x="760" y="242" fill="#3ef07c">[OK]</tspan>
+    </text>
+  </g>
+
+  <rect x="34" y="266" width="932" height="8" rx="4" fill="#151a22"/>
+  <rect x="34" y="266" width="0" height="8" rx="4" fill="#39d0ff">
+    <animate attributeName="width" from="0" to="932" begin="3.1s" dur="1.3s" fill="freeze"/>
+  </rect>
+
+  <text x="500" y="316" text-anchor="middle" font-size="17" font-weight="600" fill="#3ef07c" filter="url(#glow3)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="4.5s" dur="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0.5;1" begin="4.8s" dur="1.6s" repeatCount="indefinite"/>
+    ACCESS GRANTED &#8212; WELCOME, HUMAN.
+  </text>
+</svg>
